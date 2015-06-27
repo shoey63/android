@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ 
+  <remote  name="github"
+           fetch="https://github.com/" />
+
+  <default revision="master"
+           remote="github"
+           sync-j="4"
+           sync-c="true" />
+  
+  <project path="android" name="shoey63/android" remote="github" revision="master" />
+
+</manifest>
