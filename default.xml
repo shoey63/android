@@ -6,7 +6,7 @@
 
   <default revision="master"
            remote="github"
-           sync-j="4"
+           sync-j="8"
            sync-c="true" />
   
   <project path="android" name="shoey63/android" remote="github" revision="master" />
